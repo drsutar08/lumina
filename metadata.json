@@ -1,0 +1,6 @@
+{
+  "name": "Lumina",
+  "description": "AI-powered smart photo gallery with cloud synchronization and semantic visual search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
